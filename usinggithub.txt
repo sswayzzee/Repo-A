@@ -1,0 +1,11 @@
+How to use Github on Windows!
+
+Computer A: create user A, repository P, and file S
+Computer B: create user B, get repository P, update file S, check in file S
+Computer A: get file S, verify the change that was made
+
+Find Your local repo on your computer, 
+Edit the text file in the local repo
+Open GitHUB App
+Click on your local repo, add a "uncommitted change"
+Click commit
