@@ -2,3 +2,4 @@ this is a test of repo A!
 this is my first edit of code. i must commit!
 Every Moment is adding line 3.
 the black fire is hot!
+Make this reliably stable 
