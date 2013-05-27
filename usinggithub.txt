@@ -9,3 +9,4 @@ Edit the text file in the local repo
 Open GitHUB App
 Click on your local repo, add a "uncommitted change"
 Click commit
+Double check that it "SYNCed" on the github website
