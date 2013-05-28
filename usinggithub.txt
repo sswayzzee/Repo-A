@@ -1,4 +1,4 @@
-How to use Github on Windows!
+Howw to use Github on Windows!
 
 Computer A: create user A, repository P, and file S
 Computer B: create user B, get repository P, update file S, check in file S
