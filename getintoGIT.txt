@@ -1,5 +1,9 @@
-this is a test of repo A!
-this is my first edit of code. i must commit!
-Every Moment is adding line 3.
-the black fire is hot!
-Make this reliably stable 
+Here are the Instructions!
+The GitHub repo is under user "sswayzzee" "repo-A"
+GitHub/Git Bash/ TortoiseGit are all installed on computer.
+Find the local Repo on your computer. Perhaps look under 'Users' or 'documents'
+Once found. Open the Repo and make changes to the desired folder.
+Go back 1 directory, right click the repo and click 'Git Sync'
+Click on the "PUSH" button
+It might as you for your 'Github" username and password
+Go to 'Github' website and make sure it actually 'synced'
