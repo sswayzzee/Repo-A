@@ -12,5 +12,10 @@ Click commit
 Double check that it "SYNCed" on the github website
 DL tortoiseGit
 test
+<<<<<<< HEAD
 test failed due to signing in and entering a password
 test 2
+=======
+test failed due to signing in and entering a password
+>>>>>>> test 2
+failed becuase i had to sign in
